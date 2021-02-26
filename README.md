@@ -10,14 +10,14 @@ It has huge amount of applications and is widely adapted in many places.
 
 ## Applications
 Some of the major applications are:
-    * Speech Recognition
-    * OCR
-    * Predictive search results
-    * Recommendation Systems
-    * Self driving cars
-    * Chatbots
-    * Image Processing
- 
+   * Speech Recognition
+   * OCR
+   * Predictive search results
+   * Recommendation Systems
+   * Self driving cars
+   * Chatbots
+   * Image Processing
+
 ## Tools 
 These tools are recommended for creating Machine Learning Models
    * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
