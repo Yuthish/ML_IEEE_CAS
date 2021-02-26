@@ -20,10 +20,10 @@ Some of the major applications are:
  
 ## Tools 
 These tools are recommended for creating Machine Learning Models
-    * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
-    * [Kaggle](https://www.kaggle.com/)
-    * [VS Code](https://www.kaggle.com/)
-    * [GitHub](https://github.com/)
+   * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+   * [Kaggle](https://www.kaggle.com/)
+   * [VS Code](https://www.kaggle.com/)
+   * [GitHub](https://github.com/)
 
 ## Resources
 Resources will be updated from time to time    
