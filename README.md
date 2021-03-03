@@ -31,3 +31,10 @@ Resources will be updated from time to time
    * [Github](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
    * [Colab](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=RWdbaGigL9hU)
 
+Data Preprocessing
+   * [Numpy](https://numpy.org/)
+   * [Pandas](https://pandas.pydata.org/)
+   * [Matplotlib](https://matplotlib.org/)
+
+
+
