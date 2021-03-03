@@ -22,7 +22,7 @@ Some of the major applications are
 These tools are recommended for creating Machine Learning Models
    * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
    * [Kaggle](https://www.kaggle.com/)
-   * [VS Code](https://www.kaggle.com/)
+   * [VS Code](https://code.visualstudio.com/)
    * [GitHub](https://github.com/)
 
 ## Resources
@@ -30,4 +30,11 @@ Resources will be updated from time to time
    * [Python Basics](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
    * [Github](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
    * [Colab](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=RWdbaGigL9hU)
+
+Data Preprocessing
+   * [Numpy](https://numpy.org/)
+   * [Pandas](https://pandas.pydata.org/)
+   * [Matplotlib](https://matplotlib.org/)
+
+
 
