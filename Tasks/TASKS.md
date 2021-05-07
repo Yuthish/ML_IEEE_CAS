@@ -1,7 +1,7 @@
-# Tasks ❗❗❗
+# Tasks 📑
 Tasks given in sessions must be done and uploaded in the current folder
 
-## Task - New Recruits
+## Task - New Recruits 📌
    **DEADLINE:14/05/2021**
    
    * Learn **Python** basics
@@ -9,7 +9,7 @@ Tasks given in sessions must be done and uploaded in the current folder
    * Go through **Numpy , Pandas , Matplotlib** libraries and understand the working.
    * If possible see the courses recommended and learn as much as you can.
 
-## Task - Previous Recruits
+## Task - Previous Recruits 📌
    **DEADLINE:14/05/2021**
    
    * Learn all the **Regression Algorithms** 
