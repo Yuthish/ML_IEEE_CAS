@@ -17,6 +17,12 @@ Tasks given in sessions must be done and uploaded in the current folder
    * Write the codes in Colab and rename the notebook with your **Name and Reg.No**.
    * Give permission as **Commentor**.
    * Fork this repo and add the notebook link in **Tasks** directory and give a pull request.
+   * Algorithms to be learnt:
+        * Linear Regression
+        * Polynomial Regression
+        * Support Vector Regression (SVR)
+        * Random Forest Regression
+        * Decision Tree Regression
    
   
   
